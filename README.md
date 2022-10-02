@@ -8,11 +8,9 @@ Fiz também alguns cursos rápidos de _HTML, CSS_ e _JavaScript_. Pretendo segui
 intenção com este repositório é a de registrar meu progresso. Caso encontre algo do seu interesse, fique à vontade 
 para utilizar ou sugerir alterações. Show? Bora estudar! 🙂✌🏻
 ## O que tenho estudado
-<div>
-	<a> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"> </a>
-	<a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> </a>
-	<a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"> </a>
-	<a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"> </a>
-	<a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"> </a>
-	<a> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"> </a>	
-</div>
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
+[![C](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
+[![C](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3)
+[![C](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
+[![C](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://pt.wikipedia.org/wiki/Git)
