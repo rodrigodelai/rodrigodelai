@@ -1,4 +1,4 @@
-# Bem-vindo ao meu repositório
+# Bem-vindo ao meu perfil
 Olá, tudo bem? Sou o Rodrigo. Muito prazer!
 
 Faço graduação em Engenharia Mecânica e no meu tempo livre vejo uma coisa ou outra relacionada à programação.
@@ -10,7 +10,8 @@ para utilizar ou sugerir alterações. Show? Bora estudar! 🙂✌🏻
 ## O que tenho estudado
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
-[![C](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
-[![C](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3)
-[![C](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
-[![C](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://pt.wikipedia.org/wiki/Git)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://pt.wikipedia.org/wiki/Git)
