@@ -7,7 +7,7 @@ Bora estudar? 🙂✌🏻
 
 ## O que tenho estudado
 
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]([https://en.wikipedia.org/wiki/Spring_Boot](https://pt.wikipedia.org/wiki/Angular_(framework)))
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://pt.wikipedia.org/wiki/Angular_(framework))
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://en.wikipedia.org/wiki/Spring_Boot)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://pt.wikipedia.org/wiki/MySQL)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
