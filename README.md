@@ -32,8 +32,6 @@ Bora estudar? 🙂✌🏻
 
 ## Outros
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://pt.wikipedia.org/wiki/Git)
-[![Scrum](https://img.shields.io/badge/Scrum-007ACC.svg?style=for-the-badge&logo=Scrum&logoColor=white)](https://en.wikipedia.org/wiki/Scrum_(software_development))
-[![Scrum](https://img.shields.io/badge/Scrum-007ACC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://en.wikipedia.org/wiki/Scrum_(software_development))
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://pt.wikipedia.org/wiki/Git)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://pt.wikipedia.org/wiki/Eclipse_(software))
