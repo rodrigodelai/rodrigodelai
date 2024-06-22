@@ -17,7 +17,7 @@ Bora estudar? 🙂✌🏻
 
 ## Front-End
 <div>
-  <img title="Angular" width="54px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" />
+  <img title="Angular" width="54px" height="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3521273-2944777.png?f=webp" alt="Angular" />
   <img title="Angular Material" width="54px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="Angular Material" />
   <img title="Bootstrap" width="54px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
   <img title="SASS" width="54px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" />
