@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil 👋
 Olá, tudo bem? Sou o Rodrigo. Muito prazer!
 
-Cursei um técnico em Mecânica durante o Ensino Médio e, por gostar da área, optei pela Engenharia da USP. Para minha sorte, ao longo da graduação descobri que minha paixão mesmo era programar. Levou 1 ano para amadurecer a ideia e, finalmente, em 2023 resolvi migrar de área. Gosto bastante de aprender e transmitir conhecimento. Por isso, sempre que possível, atuo como monitor bolsista na faculdade e voluntário em um cursinho popular. Hoje curso Sistemas de Informação à noite e estudo para exercer a função de Desenvolvedor Web, preferencialmente com Spring Boot e Angular.
+Cursei um Técnico em Mecânica durante o ensino médio e, por gostar da área, optei pela Engenharia da USP. Para minha sorte, ao longo da graduação descobri que minha paixão mesmo era programar. Levou 1 ano para amadurecer a ideia e, finalmente, em 2023 resolvi migrar de área. Gosto bastante de aprender e transmitir conhecimento. Por isso, sempre que possível, atuo como monitor bolsista na faculdade e voluntário em um cursinho popular. Hoje curso Sistemas de Informação à noite e estudo para exercer a função de Desenvolvedor Web, preferencialmente com Spring Boot e Angular.
 
 Bora estudar? 🙂✌🏻
 
