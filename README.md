@@ -14,7 +14,8 @@ Bora estudar? 🙂✌🏻
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/></a><span>&nbsp</span>
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img title="C" width="45px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"/></a><span>&nbsp</span>
   <a href="https://www.python.org/about/" target="_blank"><img title="Python" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256" alt="Python"/></a><span>&nbsp</span>
-  <a href="https://www.apple.com/br/swift/" target="_blank"><img title="Swift" width="45px" src="https://cdn-icons-png.freepik.com/512/5968/5968371.png" alt="Swift"/></a>
+  <a href="https://www.apple.com/br/swift/" target="_blank"><img title="Swift" width="45px" src="https://cdn-icons-png.freepik.com/512/5968/5968371.png" alt="Swift"/></a><span>&nbsp</span>
+  <a href="https://pt.wikipedia.org/wiki/Linguagem_assembly" target="_blank"><img title="Assembly" width="45px" src="/assembly.svg" alt="Assembly"/></a>
 </div>
 
 ### Front-End:
